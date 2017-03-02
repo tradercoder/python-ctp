@@ -5,7 +5,6 @@ CTP Python Adapter . for marketdata/quote datafeed and trade .
 
 开发目的: 提供CTP的python调用接口，方便python开发人员使用API。
 
-设计思路: 通过Bridj开源组件调用c++编写的so。 Java接口完全和c++头文件定义一致，没有做任何自定义转换。
 
 代码说明: 1.保持与原版C++ CTP API名字一致，调用函数一致，写法一致，没有修改自定义数据结构体。
 
