@@ -1,0 +1,12 @@
+1. install python-ctp
+--------------------------------------------------
+cd install
+cd linux64
+python setup.py install
+
+2. run demo
+-------------------------------------------------
+cd src/md_2_hbase
+python marketdatademo.py
+
+
